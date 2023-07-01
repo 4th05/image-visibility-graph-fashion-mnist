@@ -10,6 +10,9 @@ This study aims to fill this gap by exploring and evaluating the potential of IV
 
 The comprehensive methodology includes dataset loading, feature extraction using IVG and VP, dimensionality reduction via Scaling and PCA, and the application of machine learning algorithms. The study covers both supervised learning scenarios, using classifiers such as Random Forest (RF) and Support Vector Machine (SVM), and unsupervised learning scenarios, employing partition detection algorithms like k-means and Louvain.
 
+The project pipeline can be seen bellow:
+![Pipeline](images/pipeline.png)
+
 ## Repository Structure
 
 The repository is organized as follows:
