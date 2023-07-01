@@ -1,7 +1,7 @@
 import numpy as np
 import networkx as nx
 
-#Athor: Athos M. Moraes
+#Author: Athos M. Moraes
 #Reference: https://github.com/Jaia89/Image_Visibility
 
 def image_visibility_graph(I, criterion, lattice):

@@ -31,3 +31,7 @@ For any questions or suggestions regarding this work, please contact the author 
 ## Conclusion
 
 Through this study, we discovered that features extracted from IVG and VP can effectively enhance the performance of supervised classification tasks. However, these features face challenges in distinctly classifying the categories within the Fashion MNIST dataset in unsupervised learning tasks. This calls for more in-depth research and potential enhancements to the techniques to optimize their use in diverse machine learning contexts.
+
+## References
+- https://github.com/Jaia89/Image_Visibility
+- https://arxiv.org/pdf/1702.07813.pdf
